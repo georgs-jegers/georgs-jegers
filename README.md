@@ -1,16 +1,25 @@
 ### Hi there 👋
+I am Georgs Jegers, a Software Developer.
 
-<!--
-**georgs-jegers/georgs-jegers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about science and technologies.
+My experience is primarily in PHP, but I'm always eager to learn new languages and technologies. I'm dedicated, communicative, and kind and I would love to work on projects that will help me to grow as a developer.
 
-Here are some ideas to get you started:
+## Tech Stack
+Currently, I am improving my knowledge (learning and working on):
+- PHP
+- Javascript
+- Dart / Flutter
+- Wordpress / WooCommerce
+- Git
+- MySQL, SQLite
+- HTTP & Web API
+- Unit Testing
+- Test Driven Development
+- MVC SOLID & design patterns (KISS, DRY, SOLID)
+- Building REST API
+- HTML & CSS, VueJS basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=php,wordpress,mysql,dart,docker,flutter,html,css,bootstrap,js,ts,vue,vite,git&theme=dark)](https://skillicons.dev)
+
