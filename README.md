@@ -10,6 +10,7 @@ Currently, I am improving my knowledge (learning and working on):
 - Javascript
 - Dart / Flutter
 - Wordpress / WooCommerce
+- Node.js
 - Git
 - MySQL, SQLite
 - HTTP & Web API
@@ -21,5 +22,5 @@ Currently, I am improving my knowledge (learning and working on):
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=php,wordpress,mysql,dart,docker,flutter,html,css,bootstrap,js,ts,vue,vite,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,wordpress,mysql,nodejs,dart,docker,flutter,html,css,bootstrap,js,ts,vue,vite,git&theme=dark)](https://skillicons.dev)
 
