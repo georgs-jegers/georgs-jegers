@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Georgs Jegers, a Software Developer.
+I am Georgs Jegers (Егерь Георг), a Software Developer.
 
 I am passionate about science and technologies.
 My experience is primarily in PHP, but I'm always eager to learn new languages and technologies. I'm dedicated, communicative, and kind and I would love to work on projects that will help me to grow as a developer.
