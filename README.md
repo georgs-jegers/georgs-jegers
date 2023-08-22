@@ -22,5 +22,5 @@ Currently, I am improving my knowledge (learning and working on):
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=php,wordpress,mysql,nodejs,dart,alpinejs,docker,flutter,html,cloudflare,css,bootstrap,js,ts,vue,vite,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,wordpress,mysql,nodejs,dart,alpinejs,docker,flutter,html,cloudflare,css,bootstrap,js,vue,vite,git&theme=dark)](https://skillicons.dev)
 
