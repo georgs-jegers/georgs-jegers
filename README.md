@@ -16,7 +16,7 @@ Currently, I am improving my knowledge (learning and working on):
 - HTTP & Web API
 - Unit Testing
 - Test Driven Development
-- MVC SOLID & design patterns (KISS, DRY, SOLID, SINGLETON)
+- MVC SOLID & design patterns (KISS, DRY, SOLID, etc.)
 - Building REST API
 - HTML & CSS, VueJS basics
 
