@@ -12,6 +12,7 @@ Currently, I am improving my knowledge (learning and working on):
 - Wordpress / WooCommerce
 - Node.js
 - Git
+- Go (I started learning in the middle of August 2023.)
 - MySQL, SQLite
 - HTTP & Web API
 - Unit Testing
