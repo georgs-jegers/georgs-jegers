@@ -7,21 +7,19 @@ My experience is primarily in PHP, but I'm always eager to learn new languages a
 ## Tech Stack
 Currently, I am improving my knowledge (learning and working on):
 - PHP
-- Javascript
-- Dart / Flutter
+- Javascript / Vue / React / NextJS
 - Wordpress / WooCommerce
-- Node.js
-- Git
-- Go (I started learning in the middle of August 2023.)
+- Node.js (Express, PrismaORM)
+- Git, Vercel, Netlify
 - MySQL, SQLite
 - HTTP & Web API
 - Unit Testing
 - Test Driven Development
 - MVC SOLID & design patterns (KISS, DRY, SOLID, etc.)
 - Building REST API
-- HTML & CSS, VueJS basics
+- HTML & CSS, Tailwind CSS
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=php,wordpress,mysql,nodejs,dart,alpinejs,docker,flutter,html,css,bootstrap,js,vue,vite,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,wordpress,mysql,nodejs,react,alpinejs,docker,vue,html,css,tailwind,js,vercel,vite,git&theme=dark)](https://skillicons.dev)
 
