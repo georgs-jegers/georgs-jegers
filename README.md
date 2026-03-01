@@ -6,10 +6,10 @@ My experience is primarily in PHP, but I'm always eager to learn new languages a
 
 ## Tech Stack
 Currently, I am improving my knowledge (learning and working on):
-- PHP
+- Node.js (Express, NestJS, PrismaORM)
 - Javascript / Vue / React / NextJS
 - Wordpress / WooCommerce
-- Node.js (Express, PrismaORM)
+- PHP
 - Git, Vercel, Netlify
 - MySQL, SQLite
 - HTTP & Web API
